@@ -1,1 +1,17 @@
 @charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0 px;
+}
+
+html, body {
+    min-height: 100%vh;
+    background-color: darkgray;
+}
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+header > h1
