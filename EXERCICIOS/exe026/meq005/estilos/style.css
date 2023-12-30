@@ -46,6 +46,7 @@ menu  a{
     color: white;
     background-color: rgb(63, 55, 55);
     border-top: 2px solid gray;
+    text-align: center;
 
 }
 menu a:hover{
